@@ -1,5 +1,5 @@
 # Reinforcement Learning
-## Problem description:
+## Problem description
 
 Jack manages two car parks in a town. Every day, some number of cars are rented from the
 two car parks and some number of cars are returned. If the car park has cars available for
@@ -22,6 +22,8 @@ money Jack earns. Try to find the optimal policy for Jack to earn the most rewar
 
 ## Method
 Monte Carlo methods: On-policy method with First-time MC visit.
+Code for the Monte Carlo simulation process: reinforcement_learning.py
+Code for plotting the result: plot_result.py
 
 ## Result
 Optimal policy with 5000 episodes and 20000 days in each episode:
