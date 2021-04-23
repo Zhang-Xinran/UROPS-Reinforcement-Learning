@@ -18,7 +18,7 @@ one night.
 The discount rate for the reward is γ = 0.9. Take the problem as a finite Markov decision
 process, with time steps being a day. The state is the number of cars at two car parks at the
 end of the day. The action is number of cars to move over the night. And the reward is the
-money Jack earns. Try to find the optimal policy for Jack to earn the most reward.
+money Jack earns. Try to find the *optimal policy* for Jack to earn the most reward.
 
 ## Method
 Monte Carlo methods: On-policy method with First-time MC visit.
