@@ -21,7 +21,7 @@ end of the day. The action is number of cars to move over the night. And the rew
 money Jack earns. Try to find the *optimal policy* for Jack to earn the most reward.
 
 ## Method
-Monte Carlo methods: On-policy method with First-time MC visit.
+Monte Carlo methods: On-policy method with First-vist Monte Carlo.
 Code for the Monte Carlo simulation process: reinforcement_learning.py
 Code for plotting the result: plot_result.py
 
